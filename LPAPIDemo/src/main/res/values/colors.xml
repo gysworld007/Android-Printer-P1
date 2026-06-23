@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="background_titlebar">#ff26587d</color>
+    <color name="background_light">#ffffffff</color>
+    <color name="foreground_on_dark">#ffffffff</color>
+    <color name="border_color_on_light">#ff3bb3c3</color>
+    <color name="asset_primary">#ff176b87</color>
+    <color name="asset_primary_dark">#ff0f4b5f</color>
+    <color name="asset_accent">#ffffa726</color>
+    <color name="asset_page_bg">#fff4f8fb</color>
+    <color name="asset_card_bg">#ffffffff</color>
+    <color name="asset_text_dark">#ff263238</color>
+    <color name="black">#ff000000</color>
+
+</resources>
